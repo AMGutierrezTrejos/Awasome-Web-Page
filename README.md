@@ -42,12 +42,11 @@
     <a href="[https://github.com/github_username/repo_name](https://github.com/AMGutierrezTrejos?tab=repositories)"><strong>Explore my projects »</strong></a>
     <br />
     <br />
-   <a href="https://github.com/github_username/repo_name">View Demo</a>
-    &middot;
+   <!-- <a href="https://github.com/github_username/repo_name">View Demo</a>
+    &middot; -->
     <a href="https://github.com/AMGutierrezTrejos/Awasome-Web-Page/issues/new?assignees=&labels=bug&template=bug_report.md&title=" target="_blank" rel="noopener noreferrer">Report Bug</a>
-
     &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/AMGutierrezTrejos/Awasome-Web-Page/issues/new?labels=enhancement&template=feature-request.md" target="_blank" rel="noopener noreferrer">Request Feature</a>
   </p>
 </div>
 
