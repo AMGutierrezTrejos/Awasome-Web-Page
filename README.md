@@ -147,17 +147,6 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -180,14 +169,16 @@ Contributions are what make the open source community such an amazing place to l
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+1. Fork the Project: [Awasome-Web-Page Repository](https://github.com/AMGutierrezTrejos/Awasome-Web-Page)
+2. Create your Feature Branch (`git checkout -b feature/Awasome-Web-Page`)
+3. Commit your Changes (`git commit -m 'Add some Awasome-Web-Page'`)
+4. Push to the Branch (`git push origin feature/Awasome-Web-Page`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- TOP CONTRIBUTORS -->
 ### Top contributors:
 
 <a href="https://github.com/github_username/repo_name/graphs/contributors">
@@ -195,22 +186,12 @@ Don't forget to give the project a star! Thanks again!
 </a>
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the project_license. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Mail: - <a href="mailto:m.gutierrez7@hotmail.com">Send me a mail</a>
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: - <a href="https://github.com/user-attachments/assets/0d998113-7de1-4f37-8ea0-b15afb3169e7">Click Here</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
