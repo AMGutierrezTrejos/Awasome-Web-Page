@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/AMGutierrezTrejos">
-    <img src="https://github.com/user-attachments/assets/d666f579-6f7b-4e61-bbad-a935451d3c67" alt="Logo" width="80" height="80">
+    <img src="https://github.com/user-attachments/assets/d666f579-6f7b-4e61-bbad-a935451d3c67" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">POKEMON PROJECT LANDING</h3>
