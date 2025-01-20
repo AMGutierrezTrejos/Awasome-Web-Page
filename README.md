@@ -39,7 +39,9 @@
   <p align="center">
     project_description
     <br />
-    <a href="[https://github.com/github_username/repo_name](https://github.com/AMGutierrezTrejos?tab=repositories)"><strong>Explore my projects »</strong></a>
+     &middot;
+    <a href="https://github.com/AMGutierrezTrejos?tab=repositories"><strong>Explore my projects »</strong></a>
+     &middot;
     <br />
     <br />
    <!-- <a href="https://github.com/github_username/repo_name">View Demo</a>
