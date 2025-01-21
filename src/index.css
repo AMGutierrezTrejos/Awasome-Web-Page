@@ -135,11 +135,11 @@ body {
   }
 
   .contact-clip-path-1 {
-    clip-path: polygon(25% 0%, 74% 0, 69% 64%, 34% 73%);
+    clip-path: polygon(100% 0%, 75% 50%, 77% 73%, 21% 74%, 0% 50%, 25% 0%);
   }
 
   .contact-clip-path-2 {
-    clip-path: polygon(29% 15%, 85% 30%, 50% 100%, 10% 64%);
+    clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
   }
 }
 

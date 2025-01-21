@@ -38,7 +38,7 @@ const About = () => {
         <div className="about-subtext">
           <p>
             The game that you can play with your friends
-            <p>and cath your favorite pokemon to get up to Arceus.</p>
+            <b>and cath your favorite pokemon to get up to Arceus.</b>
           </p>
         </div>
       </div>
